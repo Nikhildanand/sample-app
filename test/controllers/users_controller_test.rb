@@ -1,4 +1,5 @@
 require 'test_helper'
+require 'yaml'
 
 class UsersControllerTest < ActionDispatch::IntegrationTest
   test "should get new" do
